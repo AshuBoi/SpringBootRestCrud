@@ -1,0 +1,2 @@
+spring.application.name=learn-maven
+spring.port=8081
